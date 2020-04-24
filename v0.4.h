@@ -1,5 +1,5 @@
-#ifndef V0_4UPGRADED_H_INCLUDED
-#define V0_4UPGRADED_H_INCLUDED
+#ifndef V0_4_H_INCLUDED
+#define V0_4_H_INCLUDED
 
 #include <iostream>
 #include <iomanip>
