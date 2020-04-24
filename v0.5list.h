@@ -1,5 +1,5 @@
-#ifndef V0_5UPGRADED_LIST_H_INCLUDED
-#define V0_5UPGRADED_LIST_H_INCLUDED
+#ifndef V0_5LIST_H_INCLUDED
+#define V0_5LIST_H_INCLUDED
 
 #include <iostream>
 #include <iomanip>
