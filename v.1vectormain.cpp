@@ -22,7 +22,7 @@ std::cin >> kiek;
 std::cout<< std::endl;
 std::string vidurkisArMediana;
     for (int i = 0; i<kiek; i++)
-    {
+    {int g=1;
     std::cout <<"Keliu studentu faila generuoti?: ";
     std::cin >> n;
     pav = "Studentai" + std::to_string(n) + ".txt";
@@ -30,6 +30,11 @@ std::string vidurkisArMediana;
     std::cin >> ndSk;
     std::cout << "Norite gauti aritmetini vidurki (irasykite 'vidurki')\n ar mediana (irasykite 'mediana')?: ";
     std::cin >> vidurkisArMediana;
+         for(int i=0; i<g; i++)
+        {
+            if (vidurkisArMediana == "vidurki" || vidurkisArMediana == "mediana"){}
+            else {ifFail(); std::cin>> vidurkisArMediana; g++;}
+        }
     generuotiFailus(n, rezultatai, ndSk ,pav);
     auto start = std::chrono::high_resolution_clock::now();
     NuskaitytiIsFailo(rezultatai,pav,sukurtiFailus,ndSk, vidurkisArMediana);
