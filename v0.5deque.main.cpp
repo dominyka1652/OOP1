@@ -1,4 +1,4 @@
-#include "v0.5upgraded.deque.h"
+#include "v0.5deque.h"
 
 int main(){
 std::string arZinoKiek; // ar yra zinomas namu darbu skaicius
