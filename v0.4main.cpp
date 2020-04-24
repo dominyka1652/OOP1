@@ -1,4 +1,4 @@
-#include "v0.4upgraded.h"
+#include "v0.4.h"
 
 int main(){
 std::string arZinoKiek; // ar yra zinomas namu darbu skaicius
