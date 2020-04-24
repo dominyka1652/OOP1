@@ -1,4 +1,4 @@
-#include "v0.5upgraded.list.h"
+#include "v0.5list.h"
 
 int main(){
 std::string arZinoKiek; // ar yra zinomas namu darbu skaicius
