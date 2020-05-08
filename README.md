@@ -23,7 +23,7 @@
      - write "vidurki" if you want to get an average or "mediana" if you want to get a median
 4. You will see how much time it takes to read data from a file and separate into two groups.
 
-![paveiksliukas] (vector.PNG)
+![paveiksliukas](vector.PNG)
 #### My PC :
 1. CPU - Intel core i7
 2. RAM - 8GB
