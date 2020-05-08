@@ -24,7 +24,7 @@ Open cmd in file location then enter "make" and enter "main"
 
 
 |
-|         |Read1000|Separate|   Read   | Separate|  Read  | Separate  |  Read  |  Separate  |
+|         |R1000   |Separate|Read10000 | Separate|R100000 | Separate  |R1000000| Separate  |
 |---------|--------|--------|----------|---------|--------|-----------|--------|------------|
 | Vector1 |0.01097 |    0   |0.074799  |0.005017 |0.76503 |0.053859   |0.76503 |0.053859    |
 | list1   |0.008974|0.000997|0.082778  |0.010971 |0.813433|0.130168   |8.53119 |1.32708     |
