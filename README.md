@@ -23,8 +23,8 @@ Open cmd in file location then enter "make" and enter "main"
 3. HDD - 1TB
 
 
-|         |         1000    |       10000        |       100000       |       1000000       |
-|         |Read    |Separate|   Read   | Separate|  Read  | Separate  |  Read  |  Separate  |
+|
+|         |Read1000|Separate|   Read   | Separate|  Read  | Separate  |  Read  |  Separate  |
 |---------|--------|--------|----------|---------|--------|-----------|--------|------------|
 | Vector1 |0.01097 |    0   |0.074799  |0.005017 |0.76503 |0.053859   |0.76503 |0.053859    |
 | list1   |0.008974|0.000997|0.082778  |0.010971 |0.813433|0.130168   |8.53119 |1.32708     |
